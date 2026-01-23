@@ -47,7 +47,7 @@ Sou uma profissional apaixonada por resolver problemas e cuidar de pessoas, agor
 | Hard Skills (Técnicas) | Soft Skills (Interpessoais) |
 | :--- | :--- |
 | HTML5 Semântico & CSS3 | Comunicação Assertiva |
-| Lógica de Programação | Resolução de Problemas Complexos |
+| Lógica de Programação | Resolução de Problemas |
 | Terminal Linux & Git/GitHub | Gestão de Tempo e Prioridades |
 | SEO (Search Engine Optimization) | Empatia e Foco no Usuário |
 | Noções de IA para Devs | Adaptabilidade (Resiliência) |
